@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 This project is a simple movie recommendation system built using **PyTorch** and the **MovieLens** dataset. Instead of recommending movies based on genres or descriptions, the model learns user preferences from past ratings using collaborative filtering with matrix factorization.
 
@@ -81,6 +81,6 @@ MovieRecommendationSystem/
 
 ---
 
-## Author
+## Academic Project
 
-Created as a personal machine learning project to explore recommendation systems and gain hands-on experience with PyTorch.
+This project was developed as part of a university semester course to explore recommendation systems using collaborative filtering and PyTorch. It provided hands-on experience with data preprocessing, deep learning, embedding-based models, and unsupervised learning techniques.
